@@ -31,10 +31,7 @@ This project allows admins to manage courses, students, and progress, while stud
 - A text editor like **VS Code** / **Sublime** / **Notepad++**
 
 ### 2. Steps
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/OLMS.git
-```
+
 1. Move the project folder to your **XAMPP** `htdocs` directory.
 2. Start **Apache** and **MySQL** from XAMPP Control Panel.
 3. Open [http://localhost/phpmyadmin](http://localhost/phpmyadmin) and create a database:
